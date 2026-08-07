@@ -6,7 +6,7 @@ pokemons = []
 
 @app.route("/")
 def inicio():
-    return "API Pokemon funcionando"
+    return "Devops. Tarea Semana 1."
 
 @app.route("/pokemons", methods=["GET"])
 def obtener_pokemons():
