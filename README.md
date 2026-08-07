@@ -19,10 +19,10 @@ La información se mantiene únicamente mientras la aplicación está en ejecuci
 
 1. Descargar o clonar el proyecto.
 
-2. Ejecutar el archivo:
+2. Abrir cmd y ejecutar el siguiente comando:
 
 ```text
-requirements.txt
+pip install -r requirements.txt
 ```
 
 Este archivo realiza automáticamente:
