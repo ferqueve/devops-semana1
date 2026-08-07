@@ -11,7 +11,7 @@ La información se mantiene únicamente mientras la aplicación está en ejecuci
 # Requisitos
 
 - Python 3.10 o superior
-- Windows (para utilizar el archivo `instalar.bat`)
+- Windows (para utilizar el archivo `requirements.txt`)
 
 ---
 
@@ -22,7 +22,7 @@ La información se mantiene únicamente mientras la aplicación está en ejecuci
 2. Ejecutar el archivo:
 
 ```text
-instalar.bat
+requirements.txt
 ```
 
 Este archivo realiza automáticamente:
@@ -239,7 +239,7 @@ Se puede utilizar cualquiera de las siguientes herramientas:
 Proyecto/
 │
 ├── app.py
-├── instalar.bat
+├── requirements.txt
 ├── requirements.txt
 ├── README.md
 └── venv/
